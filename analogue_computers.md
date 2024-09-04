@@ -13,13 +13,13 @@
 [6. Advantages of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#6-advantages-of-analogue-computers)  
 [7. Limitations of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#7-limitations-of-analogue-computers)  
 [8. Key Comparisons Between Analogue and Digital Computers](https://pip-01.github.io/ET/analogue_computers#8-key-comparisons-between-analogue-and-digital-computers)  
-[]()  
-[]()  
-[]()  
+[9. Further Constraints of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#9-limitations-of-analogue-computers)  
+[10. Modern Use Cases of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#10-modern-use-cases-of-analogue-computers)  
+[11. Potential Applications of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#11-potential-applications-of-analogue-computers)  
 
 ---  
   
-<img align="right" src="imgOSINT Introduction.jpg" alt="drawing" width="300"/>
+<img align="right" src="analogue_computer.png" alt="drawing" width="300"/>
 
 ### 1. Introduction to Analogue Computers  
 
@@ -461,7 +461,9 @@ Analogue computers and digital computers represent two distinct approaches to pr
   - High speed in solving certain types of problems (e.g., simulations).
   - Effective for real-time applications, such as flight simulators or control systems.
 
-### 9. **Limitations of Analogue Computers**
+--- 
+
+### 9. **Further Constrints of Analogue Computers**
 
 - **Precision Issues**: The accuracy is limited by the quality of components used; small changes can lead to significant errors.
   
@@ -532,6 +534,8 @@ Legacy analogue computers were widely used before the advent of digital technolo
    - Early flight simulators employed analogue techniques to mimic aircraft behavior based on physics principles.
    - Some military training programs still utilize these simulators due to their effectiveness in teaching fundamental concepts.
 
+--- 
+
 ### 10. Modern Use Cases of Analogue Computers
 
 While digital computing dominates today’s landscape, there are specific areas where analogue computing is making a comeback or continues to thrive:
@@ -566,6 +570,8 @@ While digital computing dominates today’s landscape, there are specific areas 
 
 Analogue computers may not be at the forefront like their digital counterparts today; however, they continue providing valuable services across various domains from education and research environments all the way through industrial applications even amidst rapid technological advancements! Their unique characteristics make them indispensable tools within certain contexts—bridging gaps between theoretical understanding & practical implementation seamlessly!
 Analogue computing, a method that uses continuously changeable entities to represent information, has seen a resurgence in interest due to advancements in technology and the need for efficient processing. This overview delves into the future prospects of analogue computing by exploring its potential applications, advantages, challenges, and innovations.
+
+---  
 
 ### 11. **Potential Applications of Analogue Computers**
 
