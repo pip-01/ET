@@ -1,7 +1,7 @@
 [Back to index page](https://pip-01.github.io/ET/)
   
 
-## <u>Computer Vision Advanced</u>
+## <u>Analogue Computers</u>
 
 #### Course Outline:
   
