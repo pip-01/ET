@@ -5,15 +5,23 @@
 
 #### Course Outline:
   
+[1. Introduction to Analogue Computers](https://pip-01.github.io/ET/analogue_computers#1-introduction-to-analogue-computers)  
+[2. History of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#2-history-of-analogue-computers)  
+[3. Components of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#3-components-of-analogue-computers)  
+[4. Types of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#4-types-of-analogue-computers)  
+[5. Working Principle Explained with an Example](https://pip-01.github.io/ET/analogue_computers#5-working-principle-explained-with-an-example)  
+[6. Advantages of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#6-advantages-of-analogue-computers)  
+[7. Limitations of Analogue Computers](https://pip-01.github.io/ET/analogue_computers#7-limitations-of-analogue-computers)  
+[8. Key Comparisons Between Analogue and Digital Computers](https://pip-01.github.io/ET/analogue_computers#8-key-comparisons-between-analogue-and-digital-computers)  
 []()  
 []()  
-[]()
+[]()  
 
----
+---  
   
 <img align="right" src="imgOSINT Introduction.jpg" alt="drawing" width="300"/>
 
-### 1. Introduction to Analogue Computers
+### 1. Introduction to Analogue Computers  
 
 Analogue computers are devices that process data represented in a continuous form, as opposed to digital computers which use discrete values. They manipulate physical quantities such as voltage, current, or mechanical motion to simulate real-world systems and solve problems.
 
@@ -106,6 +114,8 @@ Analogue computers are a type of computing device that manipulate continuous dat
 Analogue computers provide a fascinating glimpse into how computation can model real-world scenarios through continuous data manipulation. Understanding their operation helps appreciate both historical computational methods and modern approaches that blend these concepts with advanced technologies today.
 Analogue computers are devices that manipulate continuous data to solve problems. Unlike digital computers, which operate with discrete values (0s and 1s), analogue computers work with physical quantities such as voltage, current, or mechanical motion. Understanding the history of analogue computers provides insight into their development and significance in the evolution of computing technology.
 
+---  
+
 ### 2. History of Analogue Computers
 
 ##### Key Milestones in the History of Analogue Computers
@@ -146,7 +156,7 @@ Analogue computers are devices that manipulate continuous data to solve problems
 The history of analogue computers reflects a journey from simple mechanical devices to complex electronic machines capable of solving intricate problems across various fields. While they have largely been overshadowed by digital technology today, their foundational concepts continue influencing contemporary research and applications—highlighting their enduring legacy within computer science's rich tapestry.
 Analogue computers are devices that manipulate continuous data. Unlike digital computers, which process discrete values (like 0s and 1s), analogue computers work with physical quantities such as voltage, current, and resistance. They are particularly useful for simulating real-world systems where variables change continuously over time.
 
-In this overview, we will focus on the essential components of analogue computers:
+---  
 
 ### 3. Components of Analogue Computers
 
@@ -179,6 +189,8 @@ In this overview, we will focus on the essential components of analogue computer
 
 Understanding these fundamental components—operational amplifiers, resistors, capacitors, inductors, and potentiometers—is crucial for grasping how analogue computers function. Each component plays an integral role in processing continuous data effectively while allowing us to model complex systems found in nature or engineering applications.
 Analogue computers are devices that use continuous physical quantities to represent information. Unlike digital computers, which operate using discrete values (0s and 1s), analogue computers work with varying signals, making them particularly useful for simulating real-world systems. This overview will cover the different types of analogue computers, focusing on mechanical, electronic, and hydraulic variants.
+
+---  
 
 ### 4. Types of Analogue Computers
 
