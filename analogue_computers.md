@@ -256,6 +256,8 @@ Analogue computers are devices that process data represented in a continuous for
 5. **Feedback Loops**
    - Feedback mechanisms ensure stability in computations by adjusting outputs based on previous results; common in control systems applications.
 
+---  
+
 ### 5. Working Principle Explained with an Example
 
 Imagine you want to model the motion of a pendulum:
@@ -309,6 +311,8 @@ Analogue computers are a type of computing device that manipulate continuous dat
 - **Real-Time Operation**: They can perform calculations and simulations in real-time, making them suitable for dynamic systems.
 - **Physical Representation**: Information is represented physically through electrical signals or mechanical components.
 
+---
+
 ### 6. Advantages of Analogue Computers
 
 Understanding the advantages of analogue computers helps appreciate their unique capabilities compared to digital counterparts. Here are seven key benefits:
@@ -344,6 +348,8 @@ Analogue computers are devices that process information represented in a continu
 - **Continuous Data Representation**: Unlike digital computers, which operate on binary data (0s and 1s), analogue computers can represent a range of values.
 - **Real-Time Processing**: They can solve complex equations in real-time, making them suitable for dynamic simulations.
 - **Physical Simulation**: Analogue computers often model physical processes directly, such as fluid dynamics or electrical circuits.
+
+---  
 
 ### 7. Limitations of Analogue Computers
 
@@ -405,6 +411,8 @@ Analogue computers and digital computers are two distinct types of computing sys
 **Examples of Digital Computing:**
 - **Personal Computers (PCs):** Devices we commonly use for various tasks like browsing the internet or word processing.
 - **Smartphones:** Handheld devices capable of performing a vast array of functions through software applications.
+
+---  
 
 ### 8. Key Comparisons Between Analogue and Digital Computers
 
